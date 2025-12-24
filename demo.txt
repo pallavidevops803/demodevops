@@ -1,3 +1,10 @@
 Hello devops teams
 
 how are you?
+-----
+--name:install java package
+  hosts:local host
+  become : true
+  --name: install java on ubuntu os
+  apt:
+  name:openjdk-17-jdk
