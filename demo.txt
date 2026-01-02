@@ -10,4 +10,8 @@ jdk"java17"
 stages{
 stages{checkout}{
 steps{.
+URL{
+git url:''..
+branch:""
+
 
