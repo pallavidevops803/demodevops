@@ -7,7 +7,3 @@ pipelone{
 tools {
 maven 'maven3.9.10'
 jdk"java17"
-stages{
-stages{checkout}{
-steps{.
-
