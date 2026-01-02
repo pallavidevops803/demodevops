@@ -1,3 +1,13 @@
 Hello devops teams
 
 how are you?
+
+pipelone{
+  agent any
+tools {
+maven 'maven3.9.10'
+jdk"java17"
+stages{
+stages{checkout}{
+steps{.
+
